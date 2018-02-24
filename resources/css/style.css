@@ -38,7 +38,10 @@ ul{
   list-style-type: none;
 }
 
-
 .top-nav{
   background-image: url("../images/the-flatiron-building.png");
+}
+
+.footer{
+  background-color: dimgray;
 }
