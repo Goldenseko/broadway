@@ -24,16 +24,18 @@ p{
   font-size: 14px;
 }
 
-#nav-font-size a{
+#nav-font-size li {
   font-size: 18px;
-  color:white;
   text-decoration:underline;
+  margin: 1em;
+}
+
+a{
+  color:white;
 }
 
 ul{
   list-style-type: none;
-  margin: 0;
-  padding: 0;
 }
 
 
